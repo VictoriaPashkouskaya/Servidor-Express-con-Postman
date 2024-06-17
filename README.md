@@ -32,13 +32,11 @@ Instalación
 Clonar el repositorio:
 
 ````bash
-Copiar código
 git clone https://github.com/tu/repo.git
 ````
 Instalar dependencias:
 
 ```` bash
-Copiar código
 cd express-server-example
 npm install
 ````
