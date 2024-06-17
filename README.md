@@ -21,15 +21,16 @@ Usuarios
 URL: /usuarios
 
 # GET
-Acción: Muestra un mensaje: "Listado de usuarios".
+1. Acción: Muestra un mensaje: "Listado de usuarios".
 POST
-Acción: Muestra un mensaje: "Crear un usuario".
+2. Acción: Muestra un mensaje: "Crear un usuario".
 PUT
-Acción: Muestra un mensaje: "Actualizar un usuario".
+3. Acción: Muestra un mensaje: "Actualizar un usuario".
 DELETE
-Acción: Muestra un mensaje: "Borrar un usuario".
+4. Acción: Muestra un mensaje: "Borrar un usuario".
 Instalación
-Clonar el repositorio:
+
+# Clonar el repositorio:
 
 ````bash
 git clone https://github.com/tu/repo.git
