@@ -20,7 +20,7 @@ Acción: Muestra un mensaje: "Borrar un producto".
 Usuarios
 URL: /usuarios
 
-#GET
+# GET
 Acción: Muestra un mensaje: "Listado de usuarios".
 POST
 Acción: Muestra un mensaje: "Crear un usuario".
@@ -54,4 +54,4 @@ Abre Postman.
 3. Haz clic en "Send" para enviar la solicitud y ver la respuesta del servidor.
 
 # Licencia
-Este proyecto está bajo la licencia MIT - ver el archivo LICENSE para más detalles.
+Este proyecto está bajo la licencia MIT.
