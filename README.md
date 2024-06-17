@@ -20,7 +20,8 @@ DELETE
 4. Acción: Muestra un mensaje: "Borrar un usuario".
 Instalación
 
-![photo](https://github.com/VictoriaPashkouskaya/VictoriaPashkouskaya)
+![Descripción de la imagen](https://raw.githubusercontent.com/VictoriaPashkouskaya/repository/main/images/foto.jpg)
+
 # Clonar el repositorio:
 
 ````bash
