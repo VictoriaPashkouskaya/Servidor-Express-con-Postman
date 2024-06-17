@@ -9,16 +9,6 @@ Acción: Muestra un mensaje de bienvenida.
 Productos
 URL: /productos
 
-# GET
-Acción: Muestra un mensaje: "Listado de productos".
-POST
-Acción: Muestra un mensaje: "Crear un producto".
-PUT
-Acción: Muestra un mensaje: "Actualizar un producto".
-DELETE
-Acción: Muestra un mensaje: "Borrar un producto".
-Usuarios
-URL: /usuarios
 
 # GET
 1. Acción: Muestra un mensaje: "Listado de usuarios".
