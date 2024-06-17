@@ -1,0 +1,15 @@
+# Dependencias instaladas con npm
+/node_modules
+
+# Archivo generado automáticamente por npm
+package-lock.json
+
+# Archivos de registro
+npm-debug.log
+
+# Entorno local de desarrollo
+.env
+
+# Otros archivos específicos del entorno o editor (ejemplos)
+.vscode/
+.idea/
