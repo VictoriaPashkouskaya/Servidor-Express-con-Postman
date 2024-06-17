@@ -39,6 +39,8 @@ Iniciar el servidor:
 ```` bash
 node ej2.js
  ````
+![image](https://github.com/VictoriaPashkouskaya/Servidor-Express-con-Postman/assets/151150761/76a64ba3-7dfb-459b-9991-74ed71a7c5cb)
+
 # Utilizar Postman para probar los endpoints de la API listados arriba:
 
 Abre Postman.
